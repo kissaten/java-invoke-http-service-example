@@ -1,0 +1,9 @@
+{
+  "name": "Java HTTP Services Sample",
+  "description": "An example application demonstrating how to invoke HTTP Service with Java",
+  "repository": "https://github.com/heroku/java-invoke-http-service-example",
+  "keywords": ["java", "http"],
+  "addons": [
+      "blowerio"
+    ]
+}
